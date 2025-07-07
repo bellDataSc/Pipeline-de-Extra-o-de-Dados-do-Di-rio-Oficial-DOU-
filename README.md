@@ -1,4 +1,4 @@
-# Pipeline de Extração de Dados do Diário Oficial (DOU)
+# Official Gazette (DOU) Data Extraction Pipeline
 
 ## Scraper of the Official Gazette of the Union
 
